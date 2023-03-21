@@ -1,0 +1,15 @@
+C:\Users\gorba\Desktop\Final Task 001\FT prog\bin\Debug\net7.0\FT prog.exe
+C:\Users\gorba\Desktop\Final Task 001\FT prog\bin\Debug\net7.0\FT prog.deps.json
+C:\Users\gorba\Desktop\Final Task 001\FT prog\bin\Debug\net7.0\FT prog.runtimeconfig.json
+C:\Users\gorba\Desktop\Final Task 001\FT prog\bin\Debug\net7.0\FT prog.dll
+C:\Users\gorba\Desktop\Final Task 001\FT prog\bin\Debug\net7.0\FT prog.pdb
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.csproj.AssemblyReference.cache
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.AssemblyInfoInputs.cache
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.AssemblyInfo.cs
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.csproj.CoreCompileInputs.cache
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.dll
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\refint\FT prog.dll
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.pdb
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\FT prog.genruntimeconfig.cache
+C:\Users\gorba\Desktop\Final Task 001\FT prog\obj\Debug\net7.0\ref\FT prog.dll
